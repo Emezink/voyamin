@@ -22,10 +22,10 @@ Laravel Admin & BREAD System (Browse, Read, Edit, Add, & Delete), supporting Lar
 
 ### 1. Require the Package
 
-After creating your new Laravel application you can include the Voyager package with the following command: 
+After creating your new Laravel application you can include the Voyamin package with the following command: 
 
 ```bash
-composer require tcg/voyager
+composer require emezink/voyamin
 ```
 
 ### 2. Add the DB Credentials & APP_URL
